@@ -16,7 +16,7 @@ At DevExtend, we aim to empower developers by providing a platform for learning,
    - Check out our [GitHub repositories](https://github.com/DevExtend) to find projects that interest you. We encourage contributions and collaboration!
 
 3. **Contribute**:
-   - Have a project idea? Want to improve an existing project? We welcome contributions from all members! Please refer to our [CONTRIBUTING.md](https://github.com/DevExtend/community-join) for guidelines.
+   - Have a project idea? Want to improve an existing project? We welcome contributions from all members! Please refer to our [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines.
 
 4. **Attend Events**:
    - We organize regular meetups, hackathons, and workshops. Check the **Events** section on our Discord or GitHub for upcoming activities!
@@ -26,9 +26,13 @@ At DevExtend, we aim to empower developers by providing a platform for learning,
 - [Discord Server](https://discord.gg/W9vvY2NU)
 - [Twitter](https://x.com/_DevExtend)
 
+## 📜 Code of Conduct
+
+We are committed to creating a welcoming environment for all. Please review our [Code of Conduct](/CODE_OF_CONDUCT.md) to understand our expectations for community behavior.
+
 ## 🌟 Get Started
 
-To get started, check out our [Getting Started Guide](GETTING_STARTED_GUIDE_LINK_HERE) to find resources and tips for contributing and participating in the community.
+To get started, check out our [Getting Started Guide](/GETSTARTED.md) to find resources and tips for contributing and participating in the community.
 
 ## 🙌 Acknowledgments
 
