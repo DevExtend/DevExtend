@@ -9,7 +9,7 @@ At DevExtend, we aim to empower developers by providing a platform for learning,
 ## 🤝 How to Get Involved
 
 1. **Join Our Community**: 
-   - Participate in discussions on our [Discord server](https://discord.gg/W9vvY2NU).
+   - Participate in discussions on our [Discord server](https://discord.gg/W9vvY2NU), [Telegram Group](https://t.me/devextend).
    - Follow us on social media to stay updated on events and announcements.
 
 2. **Explore Our Repositories**:
